@@ -1,0 +1,38 @@
+[
+  {
+    "section_number": 0,
+    "original_text": "2. Re-use Risks and Consequences",
+    "summarised_requirements": ".2 esu-eR sksiR dna secneuqesnoC",
+    "meda_data": {
+      "random_number": 0.9204620347752288
+    }
+  },
+  {
+    "section_number": 1,
+    "original_text": "a) Where you provide financial instruments to us under a title transfer collateral arrangement or if we exercise a right of use in relation to any financial instruments that you have provided to us by way of collateral under a security collateral arrangement containing a right of use, we draw your attention to the following Re-use Risks and Consequences:",
+    "summarised_requirements": ")a erehW uoy edivorp laicnanif stnemurtsni ot su rednu a eltit refsnart laretalloc tnemegnarra ro fi ew esicrexe a thgir fo esu ni noitaler ot yna laicnanif stnemurtsni taht uoy evah dedivorp ot su yb yaw fo laretalloc rednu a ytiruces laretalloc tnemegnarra gniniatnoc a thgir fo ,esu ew ward ruoy noitnetta ot eht gniwollof esu-eR sksiR dna :secneuqesnoC",
+    "meda_data": {}
+  },
+  {
+    "section_number": 2,
+    "original_text": "i. your rights, including any proprietary rights that you may have had, in those financial instruments will be replaced by an unsecured contractual claim for delivery of equivalent financial instruments subject to the terms of the relevant Collateral Arrangement;",
+    "summarised_requirements": ".i ruoy ,sthgir gnidulcni yna yrateirporp sthgir taht uoy yam evah ,dah ni esoht laicnanif stnemurtsni lliw eb decalper yb na derucesnu lautcartnoc mialc rof yreviled fo tnelaviuqe laicnanif stnemurtsni tcejbus ot eht smret fo eht tnaveler laretalloC ;tnemegnarrA",
+    "meda_data": {
+      "random_number": 0.8658765597481531
+    }
+  },
+  {
+    "section_number": 3,
+    "original_text": "ii. those financial instruments will not be held by us in accordance with client asset rules, and, if they had benefited from any client asset protection rights, those protection rights will not apply (for example, the financial instruments will not be segregated from our assets and will not be held subject to a trust);",
+    "summarised_requirements": ".ii esoht laicnanif stnemurtsni lliw ton eb dleh yb su ni ecnadrocca htiw tneilc tessa ,selur ,dna fi yeht dah detifeneb morf yna tneilc tessa noitcetorp ,sthgir esoht noitcetorp sthgir lliw ton ylppa rof( ,elpmaxe eht laicnanif stnemurtsni lliw ton eb detagerges morf ruo stessa dna lliw ton eb dleh tcejbus ot a ;)tsurt",
+    "meda_data": {
+      "random_number": 0.6754132373011168
+    }
+  },
+  {
+    "section_number": 4,
+    "original_text": "iii. in the event of our insolvency or default under the relevant agreement your claim against us for delivery of equivalent financial instruments will not be secured and will be subject to the terms of the relevant Collateral Arrangement and applicable law and, accordingly, you may not receive such equivalent financial instruments or recover the full value of the financial instruments (although your exposure may be reduced to the extent that you have liabilities to us which can be set off or netted against or discharged by reference to our obligation to deliver equivalent financial instruments to you);",
+    "summarised_requirements": ".iii ni eht tneve fo ruo ycnevlosni ro tluafed rednu eht tnaveler tnemeerga ruoy mialc tsniaga su rof yreviled fo tnelaviuqe laicnanif stnemurtsni lliw ton eb deruces dna lliw eb tcejbus ot eht smret fo eht tnaveler laretalloC tnemegnarrA dna elbacilppa wal ,dna ,ylgnidrocca uoy yam ton eviecer hcus tnelaviuqe laicnanif stnemurtsni ro revocer eht lluf eulav fo eht laicnanif stnemurtsni hguohtla( ruoy erusopxe yam eb decuder ot eht tnetxe taht uoy evah seitilibail ot su hcihw nac eb tes ffo ro detten tsniaga ro degrahcsid yb ecnerefer ot ruo noitagilbo ot reviled tnelaviuqe laicnanif stnemurtsni ot ;)uoy",
+    "meda_data": {}
+  }
+]
