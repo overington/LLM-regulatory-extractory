@@ -1,1 +1,3 @@
-chonkie==0.4.1
+chonkie[semantic]==0.4.1
+pytest
+pytest-cov
